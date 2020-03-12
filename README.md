@@ -3,11 +3,15 @@ This app is the utility app built for university project by myself. In this app,
 
 <img src="images/day mode.jpg" width="300" alt="Day Mode">
 <img src="images/setting.jpg" width="33%" alt="Setting">
-<img src="images/night moder.jpg" width="33%" alt="Night Mode">
+<img src="images/night mode.jpg" width="33%" alt="Night Mode">
 
 ## Built with
 * [Native Android (Java)](https://developer.android.com) - Used framework
 * [GSON](https://github.com/google/gson) - Used to keep the record 
+
+| Name     | Setting |
+|  :---:   |  :---:  |
+| <img src="images/setting.jpg"> | <img src="images/setting.jpg" width="33%" alt="Setting"> |
 
 ## Author
 * **Christopher Thiha Aung** - *Software Developer*
