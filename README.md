@@ -5,7 +5,7 @@ This app is the utility app built for university project by myself. In this app,
 
 ## Built with
 * [Native Android (Java)](https://developer.android.com) - Used framework
-* [GSON](https://github.com/google/gson) - Used to keep the record 
+* [Gson](https://github.com/google/gson) - Used to keep the record 
 
 ## Author
 * **Christopher Thiha Aung** - *Software Developer*
