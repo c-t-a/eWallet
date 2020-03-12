@@ -9,8 +9,7 @@ This app is the utility app built for university project by myself. In this app,
 * [Gson](https://github.com/google/gson) - Used to keep the record 
 
 ## Author
-* **Christopher Thiha Aung** - *Software Developer*
-[LinkedIn](https://www.linkedin.com/in/christopher-t-678b41171/)
+* **Christopher Thiha Aung** - *Software Developer* - [LinkedIn](https://www.linkedin.com/in/christopher-t-678b41171/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
