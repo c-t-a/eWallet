@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#30db5b</color>
+    <color name="colorPrimaryDark">#30db5b</color>
+    <color name="colorAccent">#30db5b</color>
+    <!--  Main Background Color  -->
+    <color name="background">#eeeeee</color>
+    <!--  Text Color  -->
+    <color name="textWhite">#ffffff</color>
+    <color name="textBlack">#1c1c1e</color>
+    <!--  Enable button color  -->
+    <color name="colorButtonEnable">#30db5b</color>
+    <!--  Disable button color  -->
+    <color name="colorButtonDisable">#48484a</color>
+</resources>

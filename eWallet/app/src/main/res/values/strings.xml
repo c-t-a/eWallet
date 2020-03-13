@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">eWallet</string>
+    <string name="setting">setting</string>
+    <string name="initialBalance">Balance</string>
+    <string name="initialBalanceNumber">0</string>
+
+    <string name="buttonAddDialog">Add</string>
+    <string name="addCategory">Category</string>
+    <string name="addPrice">Price</string>
+    <string name="radioIncome">Income</string>
+    <string name="radioExpense">Expense</string>
+    <string name="buttonEnter">Enter</string>
+
+    <string name="setupBalance">Set balance to</string>
+    <string name="balance">Balance</string>
+    <string name="nightMode">Enable night mode</string>
+    <string name="buttonSave">Save</string>
+</resources>

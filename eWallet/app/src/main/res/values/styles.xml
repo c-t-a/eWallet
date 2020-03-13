@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="mainBackground">@color/background</item>
+        <item name="background">@drawable/background_light</item>
+        <item name="backgroundColor">#ffffff</item>
+        <item name="backgroundMain">@drawable/background2_light</item>
+        <item name="textColor">@color/textBlack</item>
+        <item name="textMainColor">#636366</item>
+        <item name="accentColor">@color/colorAccent</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="DarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="mainBackground">#000000</item>
+        <item name="background">@drawable/background_dark</item>
+        <item name="backgroundColor">#212121</item>
+        <item name="backgroundMain">@drawable/background2_dark</item>
+        <item name="textColor">@color/textWhite</item>
+        <item name="textMainColor">#e0e0e0</item>
+        <item name="accentColor">@color/colorAccent</item>
+    </style>
+
+</resources>

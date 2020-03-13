@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="mainBackground" format="color"></attr>
+    <attr name="backgroundMain" format="reference"></attr>
+    <attr name="background" format="reference"></attr>
+    <attr name="backgroundColor" format="color"></attr>
+    <attr name="textMainColor" format="color"></attr>
+    <attr name="textColor" format="color"></attr>
+    <attr name="accentColor" format="color"></attr>
+</resources>
