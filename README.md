@@ -5,7 +5,7 @@ This app is the utility app built for university project by myself. In this app,
 <img src="images/eWallet-mockup.png">
 
 ## Built with
-* [Native Android (Java)](https://developer.android.com) - Used framework
+* [Native Android (Java)](https://developer.android.com) - Used language
 * [Gson](https://github.com/google/gson) - Used to keep the record 
 
 ## Author
