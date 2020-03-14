@@ -1,5 +1,5 @@
 # <img src="images/wallet.svg" width="30px"> eWallet
-This app is the utility app built for university project by myself. In this app, user can set the amount that the want to keep record. Also, user can change the theme in the sitting.
+This app is the utility app built for university project. In this app, user can set the amount that the want to keep record. Also, user can change the theme in the sitting.
 
 ## Mockup
 <img src="images/eWallet-mockup.png">
