@@ -2,7 +2,7 @@
 This app is the utility app built for university project by myself. In this app, user can set the amount that the want to keep record. Also, user can change the theme in the sitting.
 
 ## Mockup
-<img src="images/eWallet-mockup.png" width="50%">
+<img src="images/eWallet-mockup.png">
 
 ## Built with
 * [Native Android (Java)](https://developer.android.com) - Used language
